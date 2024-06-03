@@ -15,8 +15,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'xp': "url('C:/Users/marci/source/repos/portifolioReact/portfolioreact/src/assets/sobre.jpg')",
-        'hero': "url('C:/Users/marci/source/repos/portifolioReact/portfolioreact/src/assets/eu.jpg')",
+        'xp': "url('/src/assets/sobre.jpg')",
+        'hero': "url('/src/assets/eu.jpg')",
       },
     },
   },
