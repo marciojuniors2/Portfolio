@@ -1,6 +1,6 @@
 import React, { CSSProperties, useState, useRef } from 'react';
 import XpItem from './XpItem';
-import Sobre from '../sobre';
+import Sobre from '../Sobre/Sobre';
 
 function Xp() {
   const [lightPosition, setLightPosition] = useState({ x: 0, y: 0 });
