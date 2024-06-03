@@ -15,8 +15,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'xp': "url('/src/assets/sobre.jpg')",
-        'hero': "url('/src/assets/eu.jpg')",
+        // 'xp': "url('/src/assets/sobre.jpg')",
+        // 'hero': "url('/src/assets/eu.jpg')",
       },
     },
   },
