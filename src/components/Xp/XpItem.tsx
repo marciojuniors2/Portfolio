@@ -9,7 +9,7 @@ interface ExperienciaProps {
 
 function XpItem({ }) {
   return (
-    <div className='flex items-start justify-center xs:w-full lg:w-[30vw] xs:h-6  md:h-full p-4 rounded-lg bg-transparent'
+    <div className='flex items-start justify-center xs:w-full lg:w-[30vw] xs:h-full p-4 rounded-lg bg-transparent'
     >
       <div className="h-full w-[5vw] mr-3">
         <img src={verzel} />
